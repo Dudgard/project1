@@ -49,4 +49,4 @@ html {
 .header__logo {
   display: flex;
   align-items: center;
-  flex: 1 33.3%;
+  flex: 1 0 33.3%;
