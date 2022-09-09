@@ -38,15 +38,16 @@ html {
 .header__item {
   display: flex;
   flex-direction: row;
-  flex: 1 33.3%;
+  flex: 1 0 33.3%;
 }
 .header__list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex: 1 33.3%;
+  flex: 1 0  33.3%;
 }
 .header__logo {
   display: flex;
   align-items: center;
   flex: 1 0 33.3%;
+}
